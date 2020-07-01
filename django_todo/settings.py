@@ -27,7 +27,8 @@ SECRET_KEY = '3*sn0zgll$@tm))7%y_zm_7(k8z+p+5s$_h%)ovip$_9#o(&!6'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '8080-d130f5e9-9e61-4f79-b739-dcade9b0f66b.ws-eu01.gitpod.io'
+    '8080-d130f5e9-9e61-4f79-b739-dcade9b0f66b.ws-eu01.gitpod.io',
+    'https://django-todo-da.herokuapp.com/'
 ]
 
 
