@@ -28,7 +28,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '8080-d130f5e9-9e61-4f79-b739-dcade9b0f66b.ws-eu01.gitpod.io',
-    'https://django-todo-da.herokuapp.com/'
+    'django-todo-da.herokuapp.com'
 ]
 
 
